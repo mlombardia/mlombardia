@@ -51,40 +51,6 @@ I enjoy challenges where **technical depth**, **analytical thinking**, and **hum
 
 ---
 
-## 🚀 Highlighted Projects
-
-### 🧠 **Know-Your-AQI**
-*A lightweight ML app to re-enact a ML pipeline (and understand Air Quality).*  
-**Stack:** Python, XGBoost, Github Actions, Hopsworks  
-🔗 https://github.com/mlombardia/aqi-prediction  
-
----
-
-### 🤫 **Project_Lazzari**
-*Your next supermarket shop will be QUITE different.*  
-**Stack:** Python, WebScraping(for sure), ML (maybe)  
-🔗 https://github.com/mlombardia/?????  
-
----
-
-### 🤫 **Project_Burry**
-*Something cool... I guess. That's all I can say.*  
-**Stack:** Python, RL(maybe?)
-🔗 https://github.com/mlombardia/?????  
-
----
-
-### 🎒 Practice Repositories & Educational Work
-You’ll also find several repos where I explore:
-- Algorithms  
-- Java fundamentals  
-- Logic, signals, and systems  
-- College coursework & exercises  
-
-All of them reflect my interest in **continuous learning** and strengthening the foundations behind advanced systems.
-
----
-
 ## 🌱 Current Learning Focus
 - Deep Learning fundamentals (CNNs, transformers, optimization)  
 - Reinforcement Learning for simulations and agents  
@@ -111,7 +77,7 @@ I’m always open to discussing:
 - Projects that blend technology with other disciplines  
 - Research, simulations, or complex modelling challenges  
 
-📫 **Reach me here on GitHub or LinkedIn.**
+📫 **Reach me here on GitHub or [LinkedIn](https://www.linkedin.com/in/maximiliano-lombard%C3%ADa-42423789/).**
 
 ---
 
